@@ -1,3 +1,4 @@
 # first-apple
-# readme
-my first github project
+Hi Guys,
+This is my fist apple on github.
+Please pay attention to it.
